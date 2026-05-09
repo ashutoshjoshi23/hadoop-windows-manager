@@ -5,6 +5,8 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-3.4.1-yellow)
 ![Java](https://img.shields.io/badge/Java-Amazon%20Corretto%208-orange)
 
+
+
 An automated, enterprise-grade Graphical User Interface (GUI) and deployment engine designed to solve the Developer Experience (DX) challenges of setting up a pseudo-distributed Apache Hadoop cluster on Windows environments.
 
 Developed by **Ashutosh Joshi** | NMIET Pune
@@ -16,6 +18,8 @@ Setting up Apache Hadoop on Windows traditionally requires heavy manual interven
 
 ## 💡 The Solution
 This tool abstracts the entire Hadoop infrastructure setup into a **1-Click executable**. It acts as an autonomous installer, service manager, and integrated IDE, effectively replacing 15-page installation PDFs with a single, highly optimized Windows binary.
+
+<img width="586" height="440" alt="Screenshot 2026-05-09 102326" src="https://github.com/user-attachments/assets/d6d3ac92-79cc-4ed6-9a29-36955db2dfc9" />
 
 ---
 
