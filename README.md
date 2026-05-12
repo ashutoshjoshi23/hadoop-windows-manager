@@ -19,7 +19,12 @@ Setting up Apache Hadoop on Windows traditionally requires heavy manual interven
 ## 💡 The Solution
 This tool abstracts the entire Hadoop infrastructure setup into a **1-Click executable**. It acts as an autonomous installer, service manager, and integrated IDE, effectively replacing 15-page installation PDFs with a single, highly optimized Windows binary.
 
-<img width="586" height="440" alt="Screenshot 2026-05-09 102326" src="https://github.com/user-attachments/assets/d6d3ac92-79cc-4ed6-9a29-36955db2dfc9" />
+<img width="1920" height="1013" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/196be4f3-094f-45a3-8d74-4ea7d030fae6" />
+<img width="1920" height="1007" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/08ea3995-164f-4007-9c91-847cf0c95e5d" />
+<img width="1920" height="1011" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/31e3ea8b-5d13-41e1-b4a8-f7d698e706a4" />
+<img width="1920" height="1009" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/65d45ad6-b944-47a1-b081-c670b3bb46fb" />
+<img width="1920" height="1007" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/6387e901-bc5e-4970-b0ca-83fd8f293ace" />
+<img width="1920" height="1005" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/5fe6917d-f33b-4719-aa4e-4e333cdcc725" />
 
 ---
 
